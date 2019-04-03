@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author djafarouldslimane
+ *
+ */
+module WeekDaysJava {
+}
